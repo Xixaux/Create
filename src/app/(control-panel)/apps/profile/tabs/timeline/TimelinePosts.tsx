@@ -1,0 +1,28 @@
+import CreateLoading from '@create/core/CreateLoading';
+import { motion } from 'motion/react';
+import { useGetProfilePostsQuery } from '../../ProfileApi';
+import TimelinePostItem from './TimelinePostItem';
+
+const item = {
+	hidden: { opacity: 0, y: 40 },
+	show: { opacity: 1, y: 0 }
+};
+
+function TimelinePosts() {
+	const { data: posts, isLoading } = useGetProfilePostsQuery();
+
+	if (isLoading) {
+		return <CreateLoading />;
+	}
+
+	return posts?.map?.((post) => (
+		<motion.div
+			variants={item}
+			key={post.id}
+		>
+			<TimelinePostItem item={post} />
+		</motion.div>
+	));
+}
+
+export default TimelinePosts;

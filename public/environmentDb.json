@@ -1,0 +1,752 @@
+{
+  "availableEnvironmentIDs": ["1.1.1.1", "1.1.1.2", "1.1.1.3"],
+  "currentEnvironmentID": "1.1.1.1",
+  "hierarchies": {
+    "1.1.1.1": [
+      {
+        "id": "1",
+        "name": "Virtual Physical Thing",
+        "isFolder": true,
+        "NodeActionBool": "False",
+        "children": [
+          {
+            "id": "1.1",
+            "name": "Matter",
+            "isFolder": true,
+            "NodeActionBool": "False",
+            "children": [
+              {
+                "id": "1.1.1",
+                "name": "Solid",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  { "id": "1.1.1.1", "name": "Ice", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.1.2", "name": "Diamond", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.1.3", "name": "Rubber", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.1.4", "name": "Metal Alloys", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.1.5", "name": "Plastic", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                ]
+              },
+              {
+                "id": "1.1.2",
+                "name": "Liquid",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  { "id": "1.1.2.1", "name": "Water", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.2.2", "name": "Mercury", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.2.3", "name": "Oil", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                ]
+              },
+              {
+                "id": "1.1.3",
+                "name": "Gas",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  { "id": "1.1.3.1", "name": "Hydrogen", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.3.2", "name": "Air", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.3.3", "name": "Helium", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                ]
+              },
+              {
+                "id": "1.1.4",
+                "name": "Plasma",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  { "id": "1.1.4.1", "name": "Lightning", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.4.2", "name": "Solar Corona", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.4.3", "name": "Neon Signs", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                ]
+              },
+              {
+                "id": "1.1.5",
+                "name": "Exotic States",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  { "id": "1.1.5.1", "name": "Bose-Einstein Condensate", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.5.2", "name": "Quark-Gluon Plasma", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                  { "id": "1.1.5.3", "name": "Fermionic Condensate", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1.2",
+            "name": "Energy & Fields",
+            "isFolder": true,
+            "NodeActionBool": "False",
+            "children": [
+              {
+                "id": "1.2.1",
+                "name": "Waves & Radiation",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  {
+                    "id": "1.2.1.1",
+                    "name": "Electromagnetic Waves",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "1.2.1.1.1", "name": "Radio Waves", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.1.2", "name": "Microwaves", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.1.3", "name": "Infrared Light", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.1.4", "name": "Visible Light", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.1.5", "name": "Ultraviolet Light", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.1.6", "name": "X-Rays", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.1.7", "name": "Gamma Rays", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "1.2.1.2",
+                    "name": "Mechanical Waves",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "1.2.1.2.1", "name": "Sound Waves", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.1.2.2", "name": "Seismic Waves", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "1.2.2",
+                "name": "Potential & Kinetic",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  {
+                    "id": "1.2.2.1",
+                    "name": "Potential Energy",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "1.2.2.1.1", "name": "Gravitational Potential", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.2.1.2", "name": "Elastic Potential", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.2.1.3", "name": "Chemical Potential", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.2.1.4", "name": "Nuclear Potential", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "1.2.2.2",
+                    "name": "Kinetic Energy",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "1.2.2.2.1", "name": "Translational Kinetic (Motion)", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.2.2.2", "name": "Rotational Kinetic (Spin)", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "1.2.2.2.3", "name": "Thermal (Heat)", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Abstract Thing",
+        "isFolder": true,
+        "NodeActionBool": "False",
+        "children": [
+          {
+            "id": "2.1",
+            "name": "Law",
+            "isFolder": true,
+            "NodeActionBool": "False",
+            "children": [
+              {
+                "id": "2.1.1",
+                "name": "Numbers",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  {
+                    "id": "2.1.1.1",
+                    "name": "Calculations",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.1.1.1.1",
+                        "name": "Operators",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.1.1.1.1.1", "name": "Plus", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.2", "name": "Minus", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.3", "name": "Divide", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.4", "name": "Multiply", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.5", "name": "Subtract", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.6", "name": "Add", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.14", "name": "Equal", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.15", "name": "Not Equal", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.16", "name": "Greater Than", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.17", "name": "Less Than", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.18", "name": "Greater or Equal", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.19", "name": "Less or Equal", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.1.1.1.20", "name": "Equivalent", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "2.1.2",
+                "name": "Constructs",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  {
+                    "id": "2.1.2.1",
+                    "name": "Quantity",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.2.1.1", "name": "More", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.1.2.1.2", "name": "Less", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.2.2",
+                    "name": "Size",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.2.2.1", "name": "Big", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.1.2.2.2", "name": "Small", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.2.3",
+                    "name": "Position",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.2.3.1", "name": "Over", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.1.2.3.2", "name": "Under", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.2.4",
+                    "name": "Progression",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.2.4.1", "name": "Begin", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.1.2.4.2", "name": "End", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.2.5",
+                    "name": "Order",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.2.5.1", "name": "First", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.1.2.5.2", "name": "Last", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.2.6",
+                    "name": "Shape",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.1.2.6.1",
+                        "name": "2D",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.1.2.6.1.1", "name": "Circle", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.2", "name": "Oval / Ellipse", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.3", "name": "Triangle", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.4", "name": "Square", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.5", "name": "Rectangle", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.6", "name": "Rhombus", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.7", "name": "Parallelogram", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.8", "name": "Trapezoid", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.9", "name": "Kite", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.10", "name": "Pentagon", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.11", "name": "Hexagon", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.12", "name": "Octagon", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.13", "name": "Trapezium / Irregular Trapezoid", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.1.14", "name": "Semi-circle", "isFolder": false, "NodeActionBool": "False", "children": [] }
+                        ]
+                      },
+                      {
+                        "id": "2.1.2.6.2",
+                        "name": "3D",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.1.2.6.2.1", "name": "Sphere", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.2", "name": "Cylinder", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.3", "name": "Cone", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.4", "name": "Cube / Hexahedron", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.5", "name": "Rectangular Prism", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.6", "name": "Triangular Prism", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.7", "name": "Square Pyramid", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.8", "name": "Tetrahedron", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.9", "name": "Torus", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.10", "name": "Hexomino", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.2.6.2.11", "name": "Ovoid", "isFolder": false, "NodeActionBool": "False", "children": [] }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2.1.3",
+                    "name": "Polarity",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.1.3.1",
+                        "name": "X",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.1.3.1.1", "name": "Fast", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.2", "name": "Hot", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.3", "name": "Light", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.4", "name": "Loud", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.5", "name": "Tall", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.6", "name": "Heavy", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.7", "name": "Strong", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.8", "name": "Wet", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.9", "name": "Hard", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.10", "name": "Bright", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.11", "name": "Open", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.12", "name": "Rich", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.13", "name": "Big", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.14", "name": "Sharp", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.15", "name": "Full", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.16", "name": "Old", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.17", "name": "High", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.18", "name": "Thick", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.19", "name": "Clean", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.20", "name": "Sweet", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.21", "name": "Alive", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.22", "name": "Happy", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.23", "name": "Day", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.24", "name": "Front", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.25", "name": "Top", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.26", "name": "Left", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.27", "name": "Push", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.28", "name": "Win", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.29", "name": "Yes", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.30", "name": "On", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.31", "name": "Up", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.32", "name": "Male", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.33", "name": "True", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.34", "name": "Good", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.35", "name": "Love", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.36", "name": "Break", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.37", "name": "In", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.38", "name": "Black", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.1.39", "name": "Start", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                        ]
+                      },
+                      {
+                        "id": "2.1.3.2",
+                        "name": "Y",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.1.3.2.1", "name": "Slow", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.2", "name": "Cold", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.3", "name": "Dark", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.4", "name": "Quiet", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.5", "name": "Short", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.6", "name": "Light", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.7", "name": "Weak", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.8", "name": "Dry", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.9", "name": "Soft", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.10", "name": "Dim", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.11", "name": "Closed", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.12", "name": "Poor", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.13", "name": "Small", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.14", "name": "Dull", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.15", "name": "Empty", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.16", "name": "Young", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.17", "name": "Low", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.18", "name": "Thin", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.19", "name": "Dirty", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.20", "name": "Bitter", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.21", "name": "Dead", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.22", "name": "Sad", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.23", "name": "Night", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.24", "name": "Back", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.25", "name": "Bottom", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.26", "name": "Right", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.27", "name": "Pull", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.28", "name": "Lose", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.29", "name": "No", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.30", "name": "Off", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.31", "name": "Down", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.32", "name": "Female", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.33", "name": "False", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.34", "name": "Evil", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.35", "name": "Hate", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.36", "name": "Fix", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.37", "name": "Out", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.38", "name": "White", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.3.2.39", "name": "Stop", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2.1.4",
+                    "name": "Spectrum",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": []
+                  },
+                  {
+                    "id": "2.1.5",
+                    "name": "Location",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.1.5.1",
+                        "name": "Movement",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          {
+                            "id": "2.1.5.1.1",
+                            "name": "Attributes",
+                            "isFolder": true,
+                            "NodeActionBool": "False",
+                            "children": []
+                          },
+                          {
+                            "id": "2.1.5.1.2",
+                            "name": "Speed",
+                            "isFolder": true,
+                            "NodeActionBool": "False",
+                            "children": [
+                              { "id": "2.1.5.1.2.1", "name": "Fast", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.1.5.1.2.2", "name": "Slow", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                            ]
+                          },
+                          { "id": "2.1.5.1.3", "name": "Direction", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.5.1.4", "name": "Distance", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.5.1.5", "name": "Duration", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.1.5.1.7", "name": "Angle", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                        ]
+                      },
+                      {
+                        "id": "2.1.5.2",
+                        "name": "Coordinates",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.1.5.2.1", "name": "X Y Z", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2.1.6",
+                    "name": "Structure",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.6.1", "name": "Binary", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.7",
+                    "name": "Progression",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": []
+                  },
+                  {
+                    "id": "2.1.8",
+                    "name": "Dictionary",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.1.8.1",
+                        "name": "Headword",
+                        "isFolder": false,
+                        "NodeActionBool": "False",
+                        "children": []
+                      },
+                      {
+                        "id": "2.1.8.2",
+                        "name": "Definition",
+                        "isFolder": false,
+                        "NodeActionBool": "False",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2.1.9",
+                    "name": "Actions",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.1.9.1", "name": "Associate", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.2", "name": "Extract", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.3", "name": "Copy", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.4", "name": "Remove", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.5", "name": "Add", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.6", "name": "Split", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.7", "name": "Group", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.8", "name": "Merge", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.9", "name": "Insert", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.10", "name": "Substitute", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.11", "name": "Replace", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.12", "name": "Calculate", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.13", "name": "Trim", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.14", "name": "Continue", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.15", "name": "Resume", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.16", "name": "Revert", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.17", "name": "Skip", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.18", "name": "Wait", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.19", "name": "Initialize", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.20", "name": "Finalize", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.21", "name": "Load", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.22", "name": "Commit", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.23", "name": "Discard", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.24", "name": "Flip", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.25", "name": "Sort", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.26", "name": "Order", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.27", "name": "Rotate", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.28", "name": "Resize", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.29", "name": "Scale", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.30", "name": "Mirror", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.31", "name": "Reverse", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.32", "name": "Shift", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.33", "name": "Compare", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.34", "name": "Join", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.35", "name": "Disjoin", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.36", "name": "Connect", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.37", "name": "Disconnect", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.38", "name": "Bind", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.39", "name": "Unbind", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.40", "name": "Link", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.41", "name": "Unlink", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.42", "name": "Attach", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.43", "name": "Detach", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.44", "name": "Select", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.45", "name": "Filter", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.46", "name": "Move", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.47", "name": "Iterate", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.48", "name": "Loop", "isFolder": true, "NodeActionBool": "True", "children": [] },
+                      { "id": "2.1.9.49", "name": "Find", "isFolder": true, "NodeActionBool": "True", "children": [] }
+                    ]
+                  },
+                  {
+                    "id": "2.1.10",
+                    "name": "Identity",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.1.10.1",
+                        "name": "Living",
+                        "isFolder": false,
+                        "NodeActionBool": "False",
+                        "children": []
+                      },
+                      {
+                        "id": "2.1.10.2",
+                        "name": "Inanimate",
+                        "isFolder": false,
+                        "NodeActionBool": "False",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2.2",
+                    "name": "Logic",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.2.1",
+                        "name": "Core",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          {
+                            "id": "2.2.1.1",
+                            "name": "Nouns",
+                            "isFolder": true,
+                            "NodeActionBool": "False",
+                            "children": [
+                              {
+                                "id": "2.2.1.1.1",
+                                "name": "Pronouns",
+                                "isFolder": true,
+                                "NodeActionBool": "False",
+                                "children": [
+                                  {
+                                    "id": "2.2.1.1.1.1",
+                                    "name": "Identify",
+                                    "isFolder": true,
+                                    "NodeActionBool": "False",
+                                    "children": [
+                                      { "id": "2.2.1.1.1.1.1", "name": "I", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.2", "name": "You", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.3", "name": "He", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.4", "name": "She", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.5", "name": "It", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.6", "name": "We", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.7", "name": "They", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.8", "name": "Me", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.1.9", "name": "Us", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                                    ]
+                                  },
+                                  {
+                                    "id": "2.2.1.1.1.2",
+                                    "name": "Indefinite",
+                                    "isFolder": true,
+                                    "NodeActionBool": "False",
+                                    "children": [
+                                      { "id": "2.2.1.1.1.2.1", "name": "Everything", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.2.2", "name": "Something", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.2.3", "name": "Anything", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.2.4", "name": "Nothing", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.2.5", "name": "None", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.2.6", "name": "Self", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                                    ]
+                                  },
+                                  {
+                                    "id": "2.2.1.1.1.3",
+                                    "name": "Interrogative/Relative",
+                                    "isFolder": true,
+                                    "NodeActionBool": "False",
+                                    "children": [
+                                      { "id": "2.2.1.1.1.3.1", "name": "Who", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.3.2", "name": "What", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                                      { "id": "2.2.1.1.1.3.3", "name": "Which", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2.2.2",
+                    "name": "Operators",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      {
+                        "id": "2.2.2.1",
+                        "name": "Expression Objects",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          {
+                            "id": "2.2.2.1.1",
+                            "name": "if expression",
+                            "isFolder": true,
+                            "NodeActionBool": "False",
+                            "children": [
+                              { "id": "2.2.2.1.1.1", "name": "Left Operand", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.2.2.1.1.2", "name": "Right Operand", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.2.2.1.1.3", "name": "Target Lvalue", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.2.2.1.1.4", "name": "Source Rvalue", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.2.2.1.1.5", "name": "Fact Target Lvalue", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.2.2.1.1.6", "name": "Fact Source Rvalue", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                              { "id": "2.2.2.1.1.7", "name": "Comparison Operator", "isFolder": false, "NodeActionBool": "False", "children": [] }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "2.2.2.2",
+                        "name": "Logic Objects",
+                        "isFolder": true,
+                        "NodeActionBool": "False",
+                        "children": [
+                          { "id": "2.2.2.2.1", "name": "if", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.2", "name": "and", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.3", "name": "or", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.4", "name": "xor", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.5", "name": "not", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.6", "name": "else", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.7", "name": "else if", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.8", "name": "while", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.9", "name": "nand", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.10", "name": "nor", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.11", "name": "xnor", "isFolder": false, "NodeActionBool": "False", "children": [] },
+                          { "id": "2.2.2.2.12", "name": "then", "isFolder": false, "NodeActionBool": "False", "children": [] }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "2.3",
+                "name": "Stimulus",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": [
+                  {
+                    "id": "2.3.1",
+                    "name": "Colors",
+                    "isFolder": true,
+                    "NodeActionBool": "False",
+                    "children": [
+                      { "id": "2.3.1.1", "name": "Red", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.2", "name": "Orange", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.3", "name": "Yellow", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.4", "name": "Green", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.5", "name": "Blue", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.6", "name": "Indigo", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.7", "name": "Violet", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.8", "name": "Black", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.9", "name": "White", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.10", "name": "Gray", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.11", "name": "Pink", "isFolder": true, "NodeActionBool": "False", "children": [] },
+                      { "id": "2.3.1.12", "name": "Brown", "isFolder": true, "NodeActionBool": "False", "children": [] }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "2.4",
+                "name": "Variable",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": []
+              },
+              {
+                "id": "2.5",
+                "name": "Value",
+                "isFolder": true,
+                "NodeActionBool": "False",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
